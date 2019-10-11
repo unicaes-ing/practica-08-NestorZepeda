@@ -1,0 +1,13 @@
+C:\Users\licSistemas\Desktop\examenpractico\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\licSistemas\Desktop\examenpractico\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\licSistemas\Desktop\examenpractico\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\licSistemas\Desktop\examenpractico\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\licSistemas\Desktop\examenpractico\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\licSistemas\Desktop\examenpractico\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\nesto\OneDrive\Escritorio\practicas\segunndo periodo\practica8\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojAssemblyReference.cache
+C:\Users\nesto\OneDrive\Escritorio\practicas\segunndo periodo\practica8\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.CoreCompileInputs.cache
+C:\Users\nesto\OneDrive\Escritorio\practicas\segunndo periodo\practica8\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\nesto\OneDrive\Escritorio\practicas\segunndo periodo\practica8\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\nesto\OneDrive\Escritorio\practicas\segunndo periodo\practica8\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\nesto\OneDrive\Escritorio\practicas\segunndo periodo\practica8\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\nesto\OneDrive\Escritorio\practicas\segunndo periodo\practica8\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
